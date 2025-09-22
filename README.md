@@ -33,7 +33,7 @@ This project focuses on cleaning and preprocessing the **Netflix dataset** (`net
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/netflix_data_cleaning_task.git
+   git clone https://github.com/MukthaSP05/netflix_data_cleaning_task.git
 2. Navigate to the project folder:
    cd netflix_data_cleaning_task
    
